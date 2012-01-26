@@ -50,3 +50,7 @@ Here is a basic example:
 
     -- clean all objects from memory
     memory.kill()
+
+## Note ##
+
+memory.lua was written in [moonscript](https://github.com/leafo/moonscript). The source code can be found in the "src" folder.

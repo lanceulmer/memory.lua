@@ -2,7 +2,7 @@
 display.setStatusBar(display.HiddenStatusBar)
 
 -- include the library
-memory = require("memory")
+local memory = require("memory")
 
 -- make a clear button
 local clear = display.newText("Clear All Particles", 10, 10, native.systemFont, 16)
